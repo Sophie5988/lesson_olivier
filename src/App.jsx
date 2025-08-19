@@ -1,9 +1,10 @@
+import { outlet } from "react-router-dom";
 import "./App.css";
 
 function App() {
   return (
     <>
-      <h1>Tailwind Version 4 Model</h1>
+      <p>Outlet</p>
     </>
   );
 }
